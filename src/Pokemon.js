@@ -1,5 +1,6 @@
 import React from 'react';
-import gql, { graphql } from 'graphql-tag';
+import gql from 'graphql-tag';
+import { graphql } from 'react-apollo';
 // The data prop, which is provided by the wrapper below contains,
 // a `loading` key while the query is in flight and posts when it is ready
 export const Pokemon = ({ data: { loading, pokemon, error } }) => {

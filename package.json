@@ -4,16 +4,16 @@
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
-        "flow-bin": "^0.33.0",
+        "flow-bin": "^0.37.4",
         "gh-pages": "^0.12.0",
         "sw-precache": "^4.2.3",
         "reselect": "^2.5.4",
-        "react-scripts": "0.7.0",
+        "react-scripts": "0.8.4",
         "react-test-renderer": "^15.3.2"
     },
     "dependencies": {
         "apollo-client": "^0.5.12",
-        "graphql-tag": "^0.1.15",
+        "graphql-tag": "^1.1.2",
         "react": "^15.3.2",
         "react-dom": "^15.3.2"
     },

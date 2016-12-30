@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "env": "0.0.2",
     "enzyme": "^2.7.0",
     "flow-bin": "^0.37.4",
     "gh-pages": "^0.12.0",

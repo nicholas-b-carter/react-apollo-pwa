@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "apollo-client": "^0.5.25",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "graphql-tag": "^1.1.2",
     "react": "^15.4.1",
     "react-bootstrap": "^0.30.7",
